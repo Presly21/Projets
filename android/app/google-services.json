@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906230515579",
+    "project_id": "hrms-5d36a",
+    "storage_bucket": "hrms-5d36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906230515579:android:f75334df60f48cddc41fde",
+        "android_client_info": {
+          "package_name": "com.example.nexmax_hrms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXfzn171QiIW3sC2mWJFrIFhbuegL_nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
